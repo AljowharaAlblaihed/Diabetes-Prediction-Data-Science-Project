@@ -58,6 +58,7 @@ Stochastic Gradient Descent (SGD) is an optimization algorithm used to find the 
 Classification is done by a majority vote to its neighbors. The data is assigned to the class which has the nearest neighbors. As you increase the number of nearest neighbors, the value of k, accuracy might increase.
 ## The accuracy 81.1% score, after Optimize 84.4% that's best model.
 
-## We compare various machine learning algorithms on the basis of accuracy_score and find the best one
+## We compare various machine learning algorithms on the basis of accuracy_score (Baseline Mode) and find the best one
+
 
 
