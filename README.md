@@ -1,7 +1,5 @@
 # Diabetes-Prediction-Data-Science-Project
 
-# Diabetes-Prediction-Data-Science-Project
-
 ### Diabetes
 Diabetes is a chronic (long-lasting) health condition that affects how your body turns food into energy.
 
@@ -13,7 +11,8 @@ If you have diabetes, your body either doesn’t make enough insulin or can’t 
 My objective is to predict whether the patient has diabetes or not based on various features inclueds Number of times pregnant, Glucose, Blood Pressure, skin Thickness, Insulin, BMI, Family history of diabetes and Age. We will perform all the steps from Data gathering to Model deployment.
 
 ### Data 
-![image](https://user-images.githubusercontent.com/75037992/108632490-4c51d780-7480-11eb-966c-95dccd9499c9.png)
+![image](https://user-images.githubusercontent.com/75037992/108632732-840d4f00-7481-11eb-813e-32046d9ef628.png)
+
 We have 9 columns and 768 records and we not have null records.
 
 ### Data Description
@@ -28,3 +27,4 @@ Age:Age (years).
 Outcome:Class variable (0 or 1) 268 of 768 are 1, the others are 0, 1 have diabetes and 0 not have diabetes.
 
 ### Data Explore
+
