@@ -1,4 +1,7 @@
-# Diabetes-Prediction-Data-Science-Project
+# Diabetes Prediction Data Science Project
+
+## Author: Aljowhara Alblaihed 
+
 
 ### Diabetes
 Diabetes is a chronic (long-lasting) health condition that affects how your body turns food into energy.
@@ -59,6 +62,6 @@ Classification is done by a majority vote to its neighbors. The data is assigned
 ## The accuracy 81.1% score, after Optimize 84.4% that's best model.
 
 ## We compare various machine learning algorithms on the basis of accuracy_score (Baseline Mode) and find the best one
-
+![image](https://user-images.githubusercontent.com/75037992/108635410-5085f100-7490-11eb-9ede-3577bcf1f020.png)
 
 
