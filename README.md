@@ -45,23 +45,23 @@ There is a high correlation between Outcome and Glucose, BMI and Age.
 
 ### Machine Learning 
 I applied four models 
-## Baiseline Model
+### Baiseline Model
 A baseline is the result of a basic model. You generally create a baseline and then try to make more complex solutions in order to get a better result. If you achieve a better score than the baseline, it is good.
 #### The accuracy 65.6% score.
 
-## Logistic Regression Model
+#### Logistic Regression Model
 Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary). the logistic regression is a predictive analysis.  Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more independent variables.
 #### The accuracy 75.9% score.
 
-## Stochastic Gradient Descent (SGD) Classifier Model
+#### Stochastic Gradient Descent (SGD) Classifier Model
 Stochastic Gradient Descent (SGD) is an optimization algorithm used to find the values of parameters (coefficients) of a function that minimizes a cost function (objective function) and popular algorithm for training a wide range of models in Machine Learning.
 #### The accuracy 72.7% score.
 
-##  K-Nearest Neighbors (KNN)
+#### K-Nearest Neighbors (KNN) Model
 Classification is done by a majority vote to its neighbors. The data is assigned to the class which has the nearest neighbors. As you increase the number of nearest neighbors, the value of k, accuracy might increase.
 #### The accuracy 81.1% score, after Optimize 84.4% that's best model.
 
-## We compare various machine learning algorithms on the basis of accuracy_score (Baseline Mode) and find the best one
+### We compare various machine learning algorithms on the basis of accuracy_score (Baseline Mode) and find the best one
 ![image](https://user-images.githubusercontent.com/75037992/108635410-5085f100-7490-11eb-9ede-3577bcf1f020.png)
 
 
