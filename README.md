@@ -27,4 +27,12 @@ Age:Age (years).
 Outcome:Class variable (0 or 1) 268 of 768 are 1, the others are 0, 1 have diabetes and 0 not have diabetes.
 
 ### Data Explore
+##### Target Distribution
+![image](https://user-images.githubusercontent.com/75037992/108632811-e1a19b80-7481-11eb-9fb6-c65fe3c84892.png)
 
+People have diabetes is 34.90% and 65.10% has not diabetes
+
+##### Disturbuition values for each feature
+
+
+##### 
