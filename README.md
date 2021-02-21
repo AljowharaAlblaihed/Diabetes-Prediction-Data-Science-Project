@@ -27,12 +27,24 @@ Age:Age (years).
 Outcome:Class variable (0 or 1) 268 of 768 are 1, the others are 0, 1 have diabetes and 0 not have diabetes.
 
 ### Data Explore
-##### Target Distribution
+### Target Distribution
 ![image](https://user-images.githubusercontent.com/75037992/108632811-e1a19b80-7481-11eb-9fb6-c65fe3c84892.png)
 
 People have diabetes is 34.90% and 65.10% has not diabetes
 
-##### Disturbuition values for each feature
+### Disturbuition values for each feature
+![image](https://user-images.githubusercontent.com/75037992/108633131-a99b5800-7483-11eb-837f-3bc9460bc9f0.png)
 
+### Correlation Between Features
+![image](https://user-images.githubusercontent.com/75037992/108633551-dfd9d700-7485-11eb-8218-0567dacc20a3.png)
 
-##### 
+There is a high correlation between Outcome and Glucose, BMI and Age.
+
+### Machine Learning 
+I applied four models 
+## Baiseline Model
+## Logistic Regression
+## SGD Classifier Model
+## KNN
+
+## We compare various machine learning algorithms on the basis of accuracy_score and find the best one
