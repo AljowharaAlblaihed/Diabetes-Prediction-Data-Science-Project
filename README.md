@@ -11,7 +11,7 @@ Most of the food you eat is broken down into sugar (also called glucose) and rel
 If you have diabetes, your body either doesn’t make enough insulin or can’t use the insulin it makes as well as it should. When there isn’t enough insulin or cells stop responding to insulin, too much blood sugar stays in your bloodstream. Over time, that can cause serious health problems, such as heart disease, vision loss, and kidney disease.
 
 ### Business Problem
-My objective is to predict whether the patient has diabetes or not based on various features inclueds Number of times pregnant, Glucose, Blood Pressure, skin Thickness, Insulin, BMI, Family history of diabetes and Age. We will perform all the steps from Data gathering to Model deployment.
+My objective is to predict whether the patient has diabetes or not based on various features inclueds Number of times pregnant, Glucose, Blood Pressure, skin Thickness, Insulin, BMI, Family history of diabetes and Age. We will perform all the steps from Data gathering to Optmise Models.
 
 ### Data 
 ![image](https://user-images.githubusercontent.com/75037992/108632732-840d4f00-7481-11eb-813e-32046d9ef628.png)
