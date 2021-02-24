@@ -66,7 +66,7 @@ Classification is done by a majority vote to its neighbors. The data is assigned
 
 ![image](https://user-images.githubusercontent.com/75037992/108990346-c6b07080-76a7-11eb-9d41-0bd91f37e20f.png)
 
-Achived the best result in k-nearest neighbors Model with accuracy 81% score and ROC AUC 90%.
+Achived the best result in k-nearest neighbors Model with accuracy 81% score and ROC AUC 82%.
 
 ### We compare various machine learning algorithms on the basis of accuracy_score (Baseline Mode) and find the best one after optimize model
 ![image](https://user-images.githubusercontent.com/75037992/108988626-bdbe9f80-76a5-11eb-9310-f77ca8929002.png)
