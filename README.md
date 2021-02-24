@@ -59,7 +59,7 @@ Stochastic Gradient Descent (SGD) is an optimization algorithm used to find the 
 
 ### K-Nearest Neighbors (KNN) Model
 Classification is done by a majority vote to its neighbors. The data is assigned to the class which has the nearest neighbors. As you increase the number of nearest neighbors, the value of k, accuracy might increase.
-#### Accuracy 75 %Score, That means our diabetes classifier is doing a great job of identifying if person have diabetes or not, after Optimize accuracy 84.4% that's best model.
+#### Accuracy 81% %Score, That means our diabetes classifier is doing a great job of identifying if person have diabetes or not, after Optimize accuracy 84.4% that's best model.
 
 ### We compare various machine learning algorithms on the basis of accuracy_score (Baseline Mode) and find the best one before optimize model
 ![image](https://user-images.githubusercontent.com/75037992/108989598-d1b6d100-76a6-11eb-9a35-85a9c550baed.png)
