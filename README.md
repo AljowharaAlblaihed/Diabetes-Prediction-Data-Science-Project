@@ -62,7 +62,7 @@ Classification is done by a majority vote to its neighbors. The data is assigned
 #### Accuracy 75 %Score, That means our diabetes classifier is doing a great job of identifying if person have diabetes or not, after Optimize accuracy 84.4% that's best model.
 
 ### We compare various machine learning algorithms on the basis of accuracy_score (Baseline Mode) and find the best one before optimize model
-![image](https://user-images.githubusercontent.com/75037992/108987944-ee520980-76a4-11eb-9b67-2d499c9771b3.png)
+![image](https://user-images.githubusercontent.com/75037992/108989318-83a1cd80-76a6-11eb-8abd-97a94c163ab1.png)
 
 ![image](https://user-images.githubusercontent.com/75037992/108988049-104b8c00-76a5-11eb-8ce0-250cb5f8ccc0.png)
 
