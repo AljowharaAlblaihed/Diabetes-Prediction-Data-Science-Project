@@ -47,21 +47,25 @@ There is a high correlation between Outcome and Glucose, BMI and Age.
 I applied four models 
 ### Baiseline Model
 A baseline is the result of a basic model. You generally create a baseline and then try to make more complex solutions in order to get a better result. If you achieve a better score than the baseline, it is good.
-#### The accuracy 65.6% score.
+#### Accuracy 65.6 %Score, That means our diabetes classifier is doing a great job of identifying if person have diabetes or not.
 
 #### Logistic Regression Model
 Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary). the logistic regression is a predictive analysis.  Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more independent variables.
-#### The accuracy 75.9% score.
+#### Accuracy 75.9 %Score, That means our diabetes classifier is doing a great job of identifying if person have diabetes or not.
 
 #### Stochastic Gradient Descent (SGD) Classifier Model
 Stochastic Gradient Descent (SGD) is an optimization algorithm used to find the values of parameters (coefficients) of a function that minimizes a cost function (objective function) and popular algorithm for training a wide range of models in Machine Learning.
-#### The accuracy 72.7% score.
+#### Accuracy 75 %Score, That means our diabetes classifier is doing a great job of identifying if person have diabetes or not.
 
 #### K-Nearest Neighbors (KNN) Model
 Classification is done by a majority vote to its neighbors. The data is assigned to the class which has the nearest neighbors. As you increase the number of nearest neighbors, the value of k, accuracy might increase.
-#### The accuracy 81.1% score, after Optimize 84.4% that's best model.
+#### Accuracy 75 %Score, That means our diabetes classifier is doing a great job of identifying if person have diabetes or not, after Optimize accuracy 84.4% that's best model.
 
-### We compare various machine learning algorithms on the basis of accuracy_score (Baseline Mode) and find the best one
+### We compare various machine learning algorithms on the basis of accuracy_score (Baseline Mode) and find the best one before optimize model
 ![image](https://user-images.githubusercontent.com/75037992/108635410-5085f100-7490-11eb-9ede-3577bcf1f020.png)
+Achived the best result in k-nearest neighbors Model with accuracy 81% score and ROC AUC 90%.
+### We compare various machine learning algorithms on the basis of accuracy_score (Baseline Mode) and find the best one before optimize model
+
+Achived the best result in k-nearest neighbors Model with accuracy 84% score and ROC AUC 90%.
 
 
