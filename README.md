@@ -71,7 +71,7 @@ Achived the best result in k-nearest neighbors Model with accuracy 81% score and
 ### We compare various machine learning algorithms on the basis of accuracy_score (Baseline Mode) and find the best one after optimize model
 ![image](https://user-images.githubusercontent.com/75037992/108988626-bdbe9f80-76a5-11eb-9310-f77ca8929002.png)
 
-![image](https://user-images.githubusercontent.com/75037992/108988822-f9596980-76a5-11eb-86e0-276379f01a47.png)
+![image](https://user-images.githubusercontent.com/75037992/108989025-34f43380-76a6-11eb-88d1-0e1d47c09c37.png)
 
 Achived the best result in k-nearest neighbors Model with accuracy 84% score and ROC AUC 90%.
 
